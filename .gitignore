@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.pnpm-store/
+tmp/
+output/
+outputs/
+site-publish/
+*.log
+.DS_Store
+.openai/
+github-publish/
